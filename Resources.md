@@ -4,4 +4,6 @@ Collection of articles and books on various applications of deep learning and ne
 
 ## Memory Models
 
+[Mathematical model reveals how humans store narrative memories using 'random trees', Ingrid Fadelli, Phys.org](https://medicalxpress.com/news/2025-07-mathematical-reveals-humans-narrative-memories.html?fbclid=IwY2xjawLfbEZleHRuA2FlbQIxMQABHn-DXj0OB8Xs8sOfrKovzOaF09QtBcrnPEcHU39FhW9dO0nqE6kY2C2q7pxs_aem_BUPMjvyMEYcEg3kJLbiAxA)
+
 [Random Tree Model of Meaningful Memory, W. Zhong et al, 2025](https://github.com/dimitarpg13/deep_learning_in_medicine/blob/main/articles/Random_Tree_Model_of_Meaningful_Memory_Zhong_2025.pdf)
